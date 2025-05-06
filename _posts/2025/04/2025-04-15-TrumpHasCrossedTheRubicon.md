@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, República de El Salvador, President Nayib Bukele, Centro de Confinamiento del Terrorismo (CECOT), Constitution, Maryland, Supreme Court of the United States (SCOTUS), US Courts, Fourth Circuit Maryland District Court, Paula Xinis, District Judge / District of Maryland / United States District Court, Department of Justice (DOJ), Attorney General, Pam Bondi, Donald J Trump, President Donald Trump (47), President Trump Administration, President Trump Cabinet, President of the United States (POTUS), White House, politics, lawlessness]
+tags: [MSNBC, Kilmar Abrego Garcia, Venezuela, República de El Salvador, President Nayib Bukele, Centro de Confinamiento del Terrorismo (CECOT), Constitution, Maryland, Supreme Court of the United States (SCOTUS), US Courts, Fourth Circuit Maryland District Court, Paula Xinis, District Judge / District of Maryland / United States District Court, Department of Justice (DOJ), Attorney General, Pam Bondi, Donald J Trump, President Donald Trump (47), President Trump Administration, President Trump Cabinet, President of the United States (POTUS), White House, politics, lawlessness]
 categories: [Donald Trump]
 date: 2025-04-15 7:33 PM
 excerpt: ''
@@ -24,7 +24,7 @@ On Monday, both [Trump](https://www.donaldjtrump.com/) officials and the [presid
 
 And just like that, the [White House](https://www.whitehouse.gov/) openly defied a unanimous ruling by the nation’s highest court.
 
-Last week, by a vote of 9-0[^27], the [court](https://www.supremecourt.gov/) instructed the government to “facilitate” the return of Abrego Garcia. But the justices left [Trump](https://www.donaldjtrump.com/) just enough wiggle room to scoff at making effort at all, despite multiple rulings from [federal courts](https://www.uscourts.gov%), including a district court judge who [called Abrego Garcia’s arrest](https://www.nbcnews.com/news/us-news/trump-administration](https://www.whitehouse.gov/administration/)-asks-scotus-block-order-return-man-mistakenly-dep-rcna199979) “wholly lawless.”
+Last week, by a vote of 9-0[^27], the [court](https://www.supremecourt.gov/) instructed the government to “facilitate” the return of Abrego Garcia. But the justices left [Trump](https://www.donaldjtrump.com/) just enough wiggle room to scoff at making effort at all, despite multiple rulings from [federal courts](https://www.uscourts.gov/), including a district court judge who [called Abrego Garcia’s arrest](https://www.nbcnews.com/news/us-news/trump-administration](https://www.whitehouse.gov/administration/)-asks-scotus-block-order-return-man-mistakenly-dep-rcna199979) “wholly lawless.”
 
 [^27]: @RalphHightower: This is probably the first unanimous verdict in our nation’s history. 
 
@@ -44,7 +44,7 @@ But the “unconscionable” position is now the official position of the [admin
 - [Maryland](https://www.maryland.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
--[Fourth Circuit- Maryland District Court](https://www.mdd.uscourts.gov/)
+- [Fourth Circuit- Maryland District Court](https://www.mdd.uscourts.gov/)
 - [Paula Xinis, District Judge / District of Maryland / United States District Court](https://www.mdd.uscourts.gov/paula-xinis-district-judge)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
 - [Attorney General](www.justice.gov/)
@@ -57,3 +57,4 @@ But the “unconscionable” position is now the official position of the [admin
 - [White House](https://www.whitehouse.gov/)
 - politics 
 - lawlessness 
+- Kilmar Abrego Garcia

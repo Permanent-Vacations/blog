@@ -22,11 +22,15 @@ Various news media has reported that today was the worst stock market drop since
 
 - [Trump Tariffs Hit Antarctic Islands Inhabited by Zero Humans and Many Penguins / WIRED](https://www.wired.com/story/trump-tariffs-antarctic-islands-heard-mcdonald/)<br /><br />Caroline Haskins Leah Feiger<br />Business Apr 2, 2025 7:39 PM<br /><br /><br /> *The Heard and McDonald Islands are among the dozens of targets of President Donald Trump's latest round of tariffs. But they have no exports, because no one lives there.*
 
+- [2025-04-04: How To Lose Friends And Piss Off The World 🌎: Trump’s Tariffs Continue Market Turmoil. Trumpcession On Target!]({% link _posts/2025/04/2025-04-04-20250404StockMarketClosingIndexes.md %})
+
 ## Stock Market Closing Indexes After Trump’s Tariffs Tank World’s Stock Markets 
  
-| **Americas** | 
+### [Stock Market Indexes - Google Finance](https://www.google.com/finance/markets/indexes/)
+
 | Index | Closing Value | Gain/Loss | Percentage Change | 
 |---|---:|---:|---:| 
+| **Americas** | | |
 | S&P 500 | 5,396.52 | -274.45 | :arrow_down: 4.84% |
 | Dow Jones Industrial Average | 40,545.93 | -1,679.39 | :arrow_down: 3.98% |
 | Nasdaq Composite | 16,550.61 | -1,050.44 | :arrow_down: 5.97% |
@@ -51,7 +55,7 @@ Various news media has reported that today was the worst stock market drop since
 | Nasdaq Insurance | 16,302.93 | -176.79 | :arrow_down: 1.07% 
 | Nasdaq Industrial | 10,489.27 | -550.53 | :arrow_down: 4.99% 
 | Nasdaq Computer | 14,623.76 | -1,091.34 | :arrow_down: 6.94% 
-| **Europe, Middle East, and Africa** |
+| **Europe, Middle East, and Africa** | | | |
 | DAX PERFORMANCE-INDEX | 21,717.39 | -673.45 | :arrow_down: 3.01% |
 | FTSE 100 Index | 8,474.74 | -133.74 | :arrow_down: 1.55% |
 | CAC 40 | 7,598.98 | -259.85 | :arrow_down: 3.31% |
@@ -92,7 +96,7 @@ Various news media has reported that today was the worst stock market drop since
 | OMX Tallinn | 1,959.20 | -13.11 | :arrow_down: 0.66%  |
 | OMX Vilnius_GI | 1,161.45 | -6.21 | :arrow_down: 0.53%  |
 | TA-35 Index | 2,448.47 | -15.22 | :arrow_down: 0.62%  |
-| **Asia Pacific** |
+| **Asia Pacific** | | | |
 | Nikkei 225 | 34,735.93 | -989.94 | :arrow_down: 2.77% |
 | SSE Composite Index | 3,342.01 | -8.12 | :arrow_down: 0.24% |
 | Hang Seng Index | 22,849.81 | -352.72 | :arrow_down: 1.52% |
