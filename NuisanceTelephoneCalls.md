@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-14 8:14 PM
+date: 2025-06-10 8:40 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,109 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18034577293">+1 (803) 457-7293</a> | SC. Columbia | 2025-06-10 03:55 PM | — | |
+| <a href="tel:+18034960022">+1 (803) 496-0022</a> | SC. Holly Hill | 2025-06-09 10:56 AM | Pool Works LLC | |
+| <a href="tel:+18035881766">+1 (803) 588-1766</a> | SC. Bishopville | 2025-06-09 09:53 AM | — | |
+| <a href="tel:+18037744012">+1 (803) 774-4012</a> | SC. Sumter | 2025-06-06 01:32 PM | — | |
+| <a href="tel:+18036617494">+1 (803) 661-7494</a> | SC. Columbia | 2025-06-06 11:41 AM | Chistia Haynes | |
+| <a href="tel:+18038061772">+1 (803) 806-1772</a> | SC. | 2025-06-05 03:27 PM | — | |
+| <a href="tel:+18038125889">+1 (803) 812-5889</a> | SC. Allendale | 2025-06-05 12:53 PM | — | |
+| <a href="tel:+18037616918">+1 (803) 761-6918</a> | SC. Aiken | 2025-06-05 09:40 AM | — | |
+| <a href="tel:+12164287524">+1 (216) 428-7524</a> | OH. Cleveland | 2025-06-04 04:33 PM | Comcast/Infinity | |
+| <a href="tel:+18034902180">+1 (803) 490-2180</a> | SC. Lexington | 2025-06-04 01:38 PM | Jason Harvey | |
+| <a href="tel:+18038635019">+1 (803) 863-5019</a> | SC. Columbia | 2025-06-04 11:29 AM | — | |
+| <a href="tel:+18039800111">+1 (803) 980-0111</a> | SC. Rock Hill | 2025-06-04 11:03 AM | Robert Bickford | |
+| <a href="tel:+18036812920">+1 (803) 681-2920</a> | SC. | 2025-06-03 04:45 PM | — | |
+| <a href="tel:+18033668682">+1 (803) 366-8682</a> | SC. Rock Hill | 2025-06-03 10:36 AM | William Moffat | |
+| <a href="tel:+18037640389">+1 (803) 764-0389</a> | SC. Columbia | 2025-06-03 10:04 AM | Tamarind Clubhouse | |
+| <a href="tel:+18035291346">+1 (803) 529-1346</a> | SC. Columbia | 2025-06-03 10:02 AM Cust | — | |
+| <a href="tel:+18034761593">+1 (803) 476-1593</a> | SC. Columbia | 2025-06-02 03:48 PM | — | |
+| <a href="tel:+18033870690">+1 (803) 387-0690</a> | SC. | 2025-06-02 01:25 PM | Dollar Tree/Family | |
+| <a href="tel:+18037482802">+1 (803) 748-2802</a> | SC. Columbia | 2025-06-02 12:55 PM | — | |
+| <a href="tel:+18033288839">+1 (803) 328-8839</a> | SC. Rock Hill | 2025-06-02 12:33 PM | Michael Butler | |
+| <a href="tel:+18033697456">+1 (803) 369-7456</a> | SC. Columbia | 2025-05-31 02:32 PM | — | |
+| <a href="tel:+18039484032">+1 (803) 948-4032</a> | SC | 2025-05-30 05:08 PM | — | |
+| <a href="tel:+18034430370">+1 (803) 443-0370</a> | SC. | 2025-05-30 04:53 PM | — | |
+| <a href="tel:+18038515152">+1 (803) 851-5152</a> | SC. Columbia | 2025-05-30 04:31 PM | — | |
+| <a href="tel:+18039569867">+1 (803) 956-9867</a> | SC. Bamberg | 2025-05-30 04:18 PM | — | |
+| <a href="tel:+18036368275">+1 (803) 636-8275</a> | SC. Columbia | 2025-05-30 03:59 PM | — | |
+| <a href="tel:+18032537811">+1 (803) 253-7811</a> | SC. Columbia | 2025-05-30 02:51 PM | TD Bank | |
+| <a href="tel:+18039997284">+1 (803) 999-7284</a> | SC. Columbia | 2025-05-29 05:06 PM | — | |
+| <a href="tel:+18038184020">+1 (803) 818-4020</a> | SC. | 2025-05-29 03:35 PM | Sanchez, Jaun | |
+| <a href="tel:+18037715859">+1 (803) 771-5859</a> | SC. Columbia | 2025-05-29 12:03 PM 2:30 | Palmetto Health | |
+| <a href="tel:+18036515091">+1 (803) 651-5091</a> | SC. | 2025-05-29 11:12 AM | — | |
+| <a href="tel:+18033810940">+1 (803) 381-0940</a> | SC. Columbia | 2025-05-28 07:10 PM | — | |
+| <a href="tel:+18039009823">+1 (803) 900-9823</a> | SC. Camden | 2025-05-28 05:58 PM | — | |
+| <a href="tel:+18036241200">+1 (803) 624-1200</a> | SC. Beech Island | 2025-05-28 05:48 PM | Aiken Opthalmo | |
+| <a href="tel:+18039047943">+1 (803) 904-7943</a> | SC. Columbia | 2025-05-28 03:45 PM | — | |
+| <a href="tel:+18039531510">+1 (803) 953-1510</a> | SC. | 2025-05-28 03:27 PM | — | |
+| <a href="tel:+18038578780">+1 (803) 857-8780</a> | SC. Santee | 2025-05-28 03:07 PM | — | |
+| <a href="tel:+18039238954">+1 (803) 923-8954</a> | SC. Columbia | 2025-05-28 12:44 PM | Palmetto Health | |
+| <a href="tel:+18032488309">+1 (803) 248-8309</a> | SC. | 2025-05-28 11:58 AM | — | |
+| <a href="tel:+18036079741">+1 (803) 607-9741</a> | SC. Sumter | 2025-05-28 10:54 AM | — | |
+| <a href="tel:+18039641508">+1 (803) 964-1508</a> | SC. Hampton | 2025-05-28 10:05 AM | — | |
+| <a href="tel:+18035427045">+1 (803) 542-7045</a> | SC. Columbia | 2025-05-28 09:40 AM | Owner Keyy Auto | |
+| <a href="tel:+18032684782">+1 (803) 268-4782</a> | SC. Orangeburg | 2025-05-27 06:18 PM | — | |
+| <a href="tel:+18036771282">+1 (803) 677-1282</a> | SC. Camden | 2025-05-27 05:29 PM | — | |
+| <a href="tel:+18037598080">+1 (803) 759-8080</a> | SC. | 2025-05-27 02:06 PM ¤¤ | — | |
+| <a href="tel:+18037598080">+1 (803) 759-8080</a> | SC. | 2025-05-27 02:05 PM | — | |
+| <a href="tel:+18034892508">+1 (803) 489-2508</a> | SC. Beech | 2025-05-27 11:54 AM | — | |
+| <a href="tel:+18036130041">+1 (803) 613-0041</a> | SC. North Augusta | 2025-05-27 11:12 AM ¤¤ | — | |
+| <a href="tel:+18036130041">+1 (803) 613-0041</a> | SC. North Augusta | 2025-05-27 11:11 AM | — | |
+| <a href="tel:+18032121372">+1 (803) 212-1372</a> | SC. Columbia | 2025-05-27 10:34 AM | — | |
+| <a href="tel:+18039323848">+1 (803) 932-3848</a> | SC. | 2025-05-27 10:26 AM | GIS Inc | |
+| <a href="tel:+18039788145">+1 (803) 978-8145</a> | SC. | 2025-05-24 01:57 PM | — | |
+| <a href="tel:+18039047852">+1 (803) 904-7852</a> | SC. Columbia | 2025-05-24 01:36 PM | — | |
+| <a href="tel:+18035429735">+1 (803) 542-9735</a> | SC. Columbia | 2025-05-24 01:11 PM ¤¤ | — | |
+| <a href="tel:+18035429735">+1 (803) 542-9735</a> | SC. Columbia | 2025-05-24 01:10 PM | — | |
+| <a href="tel:+18037103410">+1 (803) 710-3410</a> | SC. Johnston | 2025-05-24 10:02 AM ¤¤ | — | |
+| <a href="tel:+18037242311">+1 (803) 724-2311</a> | SC. Columbia | 2025-05-23 06:21 PM | — | |
+| <a href="tel:+18039457280">+1 (803) 945-7280</a> | SC. Little Mountain | 2025-05-23 06:13 PM ¤¤ | — | |
+| <a href="tel:+18039457280">+1 (803) 945-7280</a> | SC. Little Mountain | 2025-05-23 06:12 PM | — | |
+| <a href="tel:+18033419130">+1 (803) 341-9130</a> | SC. Beech Island | 2025-05-23 05:42 PM | — | |
+| <a href="tel:+18037057498">+1 (803) 705-7498</a> | SC. Columbia | 2025-05-23 05:08 PM | — | |
+| <a href="tel:+18037126128">+1 (803) 712-6128</a> | SC. Winnsboro | 2025-05-23 04:56 PM | — | |
+| <a href="tel:+18036741917">+1 (803) 674-1917</a> | SC. Batesburg | 2025-05-23 04:21 PM | — | |
+| <a href="tel:+18034408547">+1 (803) 440-8547</a> | SC. Columbia | 2025-05-23 03:30 PM | — | |
+| <a href="tel:+18037383746">+1 (803) 738-3746</a> | SC. | 2025-05-23 12:58 PM | — | |
+| <a href="tel:+18039486518">+1 (803) 948-6518</a> | SC. Little Mountain | 2025-05-23 12:52 PM ¤¤ | — | |
+| <a href="tel:+18039486518">+1 (803) 948-6518</a> | SC. Little Mountain | 2025-05-23 12:51 PM | — | |
+| <a href="tel:+18032484268">+1 (803) 248-4268</a> | SC. Kershaw | 2025-05-23 12:32 PM | — | |
+| <a href="tel:+18039254731">+1 (803) 925-4731</a> | SC. Hickory Grove | 2025-05-23 12:32 PM | — | |
+| <a href="tel:+18038433086">+1 (803) 843-3086</a> | SC. New Ellington | 2025-05-23 11:20 AM | — | |
+| <a href="tel:+18033765473">+1 (803) 376-5473</a> | SC. Columbia | 2025-05-23 09:35 AM | — | |
+| <a href="tel:+18038456238">+1 (803) 845-6238</a> | SC. Aiken | 2025-05-23 09:34 AM | — | |
+| <a href="tel:+18032484098">+1 (803) 248-4098</a> | SC. Kershaw | 2025-05-22 10:38 PM ¤¤ | Windstream | |
+| <a href="tel:+18032484098">+1 (803) 248-4098</a> | SC. Kershaw | 2025-05-22 10:37 PM | Windstream | |
+| <a href="tel:+18037052845">+1 (803) 705-2845</a> | SC. Columbia | 2025-05-22 03:47 PM | — | |
+| <a href="tel:+18035667124">+1 (803) 566-7124</a> | SC. Hickory Grove | 2025-05-22 01:39 PM | — | |
+| <a href="tel:+18038475978">+1 (803) 847-5978</a> | SC. Sumter | 2025-05-22 01:34 PM | CUSTSVC | |
+| <a href="tel:+16802141044">+1 (680) 214-1044</a> | NY. Syracuse | 2025-05-21 04:49 PM | #IRSFraud | |
+| <a href="tel:+16802141044">+1 (680) 214-1044</a> | NY. Syracuse | 2025-05-21 04:49 PM | #IRSFraud | |
+| <a href="tel:+18039452458">+1 (803) 945-2458</a> | SC. Little Mountain | 2025-05-21 03:57 PM | — | |
+| <a href="tel:+18035890814">+1 (803) 589-0814</a> | SC. Winnsboro | 2025-05-21 03:14 PM | — | |
+| <a href="tel:+18034595021">+1 (803) 459-5021</a> | SC. | 2025-05-21 02:32 PM | Mary Hicks | |
+| <a href="tel:+18033395846">+1 (803) 339-5846</a> | SC. York | 2025-05-21 01:33 PM | S Carolina | |
+| <a href="tel:+18033395846">+1 (803) 339-5846</a> | SC. York | 2025-05-21 01:32 PM | S Carolina | |
+| <a href="tel:+18037053883">+1 (803) 705-3883</a> | SC. Columbia | 2025-05-21 12:37 PM | — | |
+| <a href="tel:+18033127878">+1 (803) 312-7878</a> | SC. Columbia | 2025-05-21 11:46 AM | US Gov (Marketplace Insurance) | |
+| <a href="tel:+18033107726">+1 (803) 310-7726</a> | SC. Elgin | 2025-05-21 11:37 AM | Chronicle | |
+| <a href="tel:+18035893485">+1 (803) 589-3485</a> | SC. Winnsboro | 2025-05-20 02:09 PM | — | |
+| <a href="tel:+18037144471">+1 (803) 714-4471</a> | SC. Columbia | 2025-05-20 11:58 AM | — | |
+| <a href="tel:+18035744057">+1 (803) 574-4057</a> | SC. Summerton | 2025-05-19 06:37 PM | — | |
+| <a href="tel:+18036679403">+1 (803) 667-9403</a> | SC. Columbia | 2025-05-19 04:10 PM | Johnson, Tama | |
+| <a href="tel:+18037214994">+1 (803) 721-4994</a> | SC. | 2025-05-19 10:58 AM | — | |
+| <a href="tel:+18038127972">+1 (803) 812-7972</a> | SC. Allendale | 2025-05-16 03:08 PM | — | |
+| <a href="tel:+18622803737">+1 (862) 280-3737</a> | NJ. Newark | 2025-05-16 03:08 PM | — | |
+| <a href="tel:+18039282766">+1 (803) 928-2766</a> | SC. | 2025-05-16 02:06 PM | Jessica Kinsey | |
+| <a href="tel:+18034105192">+1 (803) 410-5192</a> | SC. Manning | 2025-05-16 01:11 PM | — | |
+| <a href="tel:+12138014036">+1 (213) 801-4036</a> | CA. Los Angeles | 2025-05-16 09:37 AM | Fake USPS Scam | |
+| <a href="tel:+18032910391">+1 (803) 291-0391</a> | SC. Salley | 2025-05-15 06:49 PM | Potential Spam | |
+| <a href="tel:+18037452419">+1 (803) 745-2419</a> | SC. Lancaster | 2025-05-15 05:55 PM | — | |
+| <a href="tel:+18037659656">+1 (803) 765-9656</a> | SC. Columbia | 2025-05-15 03:49 PM | — | |
+| <a href="tel:+18035960683">+1 (803) 596-0683</a> | SC. Orangeburg | 2025-05-15 01:14 PM | Potential Spam | |
+| <a href="tel:+18036122529">+1 (803) 612-2529</a> | SC. Columbia | 2025-05-15 01:11 PM | — | |
+| <a href="tel:+18037565666">+1 (803) 756-5666</a> | SC. | 2025-05-15 12:24 PM | — | |
 | <a href="tel:+18033763408">+1 (803) 376-3408</a> | SC. Columbia | 2025-05-14 07:25 PM ¤¤ | PWC | |
 | <a href="tel:+18033763408">+1 (803) 376-3408</a> | SC. Columbia | 2025-05-14 07:24 PM | PWC | |
 | <a href="tel:+18037205154">+1 (803) 720-5154</a> | SC. Sumter | 2025-05-14 06:17 PM | Potential Spam | |
@@ -274,7 +377,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18038944672">+1 (803) 894-4672</a> | SC. Pelion | 2025-04-16 05:37 PM | Nunley Tim | |
 | <a href="tel:+18036515372">+1 (803) 651-5372</a> | SC. Sumter | 2025-04-16 02:43 PM | Potential Spam | |
 | <a href="tel:+18037617083">+1 (803) 761-7083</a> | SC. | 2025-04-16 02:30 PM | Craig Stanley | |
-| <a href="tel:+18038578325">+1 (803) 857-8325</a> | SC. Santee | 2025-04-16 01:21 PM | Tsmi Bruneau | |
+| <a href="tel:+18038578325">+1 (803) 857-8325</a> | SC. Santee | 2025-04-16 01:21 PM | Tami Bruneau | |
 | <a href="tel:+18037644347">+1 (803) 764-4347</a> | SC. Columbia | 2025-04-16 11:47 AM | Rhonda G Wallace | |
 | <a href="tel:+15572262220">+1 (557) 226-2220</a> | MO. St. Louis | 2025-04-16 10:39 AM | — | |
 | <a href="tel:+18395293201">+1 (839) 529-3201</a> | SC. Bamberg | 2025-04-16 09:24 AM | — | |
@@ -296,6 +399,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18037082851">+1 (803) 708-2851</a> | SC. Columbia | 2025-04-14 12:05 PM | — | |
 | <a href="tel:+18036026374">+1 (803) 602-6374</a> | SC. | 2025-04-14 11:04 AM ¤¤ | — | |
 | <a href="tel:+18036026374">+1 (803) 602-6374</a> | SC. | 2025-04-14 11:02 AM | — | |
+| <a href="tel:+18034822519">+1 (803) 482-2519</a> | SC. Great Falls | 2025-04-14 10:41 AM | David Wright | |
 | <a href="tel:+18034822519">+1 (803) 482-2519</a> | SC. Great Falls | 2025-04-14 10:41 AM | David Wright | |
 | <a href="tel:+18039785627">+1 (803) 978-5627</a> | SC. | 2025-04-14 10:24 AM | Residence Inn | |
 | <a href="tel:+18038246349">+1 (803) 824-6349</a> | SC. | 2025-04-12 03:28 PM | — | |

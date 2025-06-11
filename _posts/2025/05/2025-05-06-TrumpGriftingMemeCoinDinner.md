@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "$TRUMP Meme Cryptocoin Is Another Grift For Trump’s Idolators"
+title: "The Trump Crime Family: $TRUMP Meme Cryptocoin Dinner Is Another Grift"
 ---
 
 ## [$TRUMP meme coin dinner brings crypto grift to the White House](https://www.msnbc.com/opinion/msnbc-opinion/trump-meme-coin-dinner-crypto-white-house-rcna204504)

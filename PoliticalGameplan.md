@@ -112,7 +112,6 @@ I wish that South Carolina wasn't such a red state. Maybe purple? The county tha
 ##### [Trump Party](https://www.gop.com/)
 
 Class I terms run from the beginning of the 119th Congress on January 3, 2025, to the end of the 121st Congress on January 3, 2031. Senators in Class I were elected to office in the November 2024 general election, unless they took their seat through appointment or special election.
-
 Class II terms run from the beginning of the 117th Congress on January 3, 2021, to the end of the 119th Congress on January 3, 2027. Senators in Class II were elected to office in the November 2020 general election, unless they took their seat through appointment or special election.
 
 Class III terms run from the beginning of the 118th Congress on January 3, 2023, to the end of the 120th Congress on January 3, 2029. Senators in Class III were elected to office in the November 2022 general election, unless they took their seat through appointment or special election.
@@ -132,7 +131,7 @@ Class II.
 | **Upstate Office** |
 | 2 West Washington Street, Suite 808 <br /> Greenville, SC 29601 <br /> Main: <a href="tel:+18642501417">(864) 250-1417</a> <br /> Fax: <a href="tel:+18642504322">(864) 250-4322</a> |
 | **Pee Dee Office** |
-| McMillan Federal Building <br /> 401 West Evans Street, Suite 111 <br /> Florence, SC 29501 <br /> Main: <a href="tel:+18436681505">(843) 669-1505_/a> <br /> Fax: <a href="tel:+18336699015">(843) 669-9015</a> |
+| McMillan Federal Building <br /> 401 West Evans Street, Suite 111 <br /> Florence, SC 29501 <br /> Main: <a href="tel:+18436681505">(843) 669-1505</a> <br /> Fax: <a href="tel:+18336699015">(843) 669-9015</a> |
 | **Lowcountry Office** |
 | 4 Carriage Lane, Suite 401 <br /> Charleston, SC 29407 <br /> Main: <a href="tel:+18438493887">(843) 849-3887</a> <br /> Fax: <a href="tel:+18439713669">(843) 971-3669</a> |
 | **Piedmont Office** |
@@ -194,7 +193,7 @@ Class III.
 | **Florida, Miami** |
 | **[Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)** <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a href="tel:+13055922000">+1 (305) 592-2000</a> |
 | **Florida, Jupiter** |
-| **[Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/about)** <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
+| **[Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/)** <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
 | **Virginia, Potomac Falls** |
 | **[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)** <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
 | **New Jersey, Bedminster** |
@@ -233,7 +232,7 @@ Class III.
 | **Mailing Address** |
 | The Honorable Alan Wilson <br /> P.O. Box 11549 <br /> Columbia, S.C. 29211 |
 | **Office Location** |
-| Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: <a href="1-8037343970">1-803-734-3970</a> <br /> Constituent Services: <a href="1-8037373953">1-803-737-3953</a> |
+| Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: <a href="tel:1-8037343970">1-803-734-3970</a> <br /> Constituent Services: <a href="tel:1-8037373953">1-803-737-3953</a> |
 
 ##### My Dumb State: South Carolina
 
@@ -297,34 +296,7 @@ Class III.
 
 ### [5 Calls](https://5calls.org/) – Calling Your Representative and Senators
 
-#### [Keep the US Postal Service Independent ⭑ 5 Calls](https://5calls.org/issue/usps-us-postal-service-takeover/)
-
-#### [Support Ukraine ⭑ 5 Calls](https://5calls.org/issue/ukraine-russia-zelinsky/)
-
-#### [Protect Your IRS Data from DOGE ⭑ 5 Calls](https://5calls.org/issue/musk-doge-irs-data-privacy/)
-
-#### [Fight the Constitutional Crisis ⭑ 5 Calls](https://5calls.org/issue/constitutional-crisis-trump-musk/)
-
-#### [Oppose Safety Net Cuts to Fund Billionaire Tax Breaks - Vote Tues 2/25 ⭑ 5 Calls](https://5calls.org/issue/budget-safety-net-cuts-wealthy-tax-breaks/)
-
-#### [Defend Our National Parks ⭑ 5 Calls](https://5calls.org/issue/protect-national-parks-nps-nfs/)
-
-#### [Fight Against Elon Musk’s/DOGE Government Takeover ⭑ 5 Calls](https://5calls.org/issue/elon-musk-opm-gsa-takeover/)
-
-#### [Texas v. Becerra: What it is and How You Can Help Stop the Attack on Section 504 - DREDF](https://dredf.org/protect-504/)
-
-#### [Protect the Department of Education ⭑ 5 Calls](https://5calls.org/issue/education-department-hr899/)
-
-#### [Defend the Consumer Financial Protection Bureau (CFPB) ⭑ 5 Calls](https://5calls.org/issue/consumer-financial-protection-bureau-cfpb-vought/)
-
-#### [Protect the Mission of the Environmental Protection Agency (EPA) ⭑ 5 Calls](https://5calls.org/issue/epa-environmental-protection-agency-zeldin/)
-
-#### [Condemn a US Takeover of Gaza ⭑ 5 Calls](https://5calls.org/issue/trump-us-gaza-palestinian-occupation/)
-#### [Save NIH and NSF Research Funding ⭑ 5 Calls](https://5calls.org/issue/nih-nsf-funding-cuts/)
-
-#### [State AGs: Prosecute DOGE for Illegal Data Breach ⭑ 5 Calls](https://5calls.org/issue/musk-doge-data-lawsuit/)
-
-#### [Oppose The SAVE Act (H.R. 22 / S.128) – A Voter Suppression Bill ⭑ 5 Calls](https://5calls.org/issue/save-act-voter-suppression/)
+The issues in the [5 Calls](https://5calls.org/) app are updated as situations arise.
 
 ### [Simple Sabotage Field Manual / Project Gutenberg](https://www.gutenberg.org/cache/epub/26184/pg26184-images.html)
 
@@ -347,7 +319,7 @@ The staffer was very clear that any sort of online contact basically gets immedi
 Calls are what all the congresspeople pay attention to. Every single day, the Senior Staff and the Senator get a report of the 3 most-called-about topics for that day at each of their offices (in DC and local offices), and exactly how many people said what about each of those topics. They're also sorted by zip code and area code. She said that Republican callers generally outnumber Democrat callers 4-1, and when it's a particular issue that single-issue-voters pay attention to (like ~~gun control~~[^71], or planned parenthood funding, etc...), it's often closer to 11-1, and that's recently pushed Republican congressmen on the fence to vote with the Republicans. In the last 8 years, Republicans have called, and Democrats haven't.
 
 Areas of concern:
-- Egg prices
+Egg prices
 - Gas prices
 - Inflation
 - Unemployment
