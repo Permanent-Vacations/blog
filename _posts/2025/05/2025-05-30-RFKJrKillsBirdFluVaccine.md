@@ -10,9 +10,9 @@ excerpt: ''
 title: "The Anti-Vaxxer Head of Health and Human Services Kills Vaccine Development for Bird Flu"
 ---
 
-2025-05-09: [Caution: The Surgeon General Could Be Hazardous To Your Health]({% link _posts/2025/05/2025-05-09-CautionSurgeonGeneralHazardousToHealth.md %})
-2025-02-19: [Donald Trump Shoots Self In Foot. So What Else Is New? Oh, Trump Fucks Up a Chicken Pandemic Response: Avian (Bird), H5N1]({% link _posts/2025/02/2025-02-19-TrumpShotsSelfInFootBirdFluFuckup.md %})
-2025-01-04: [Killing Our Kids Softly With His Song – Robert F Kennedy Jr (RFKJr)'s Newest Hit Single On The Top 40 MAGA Hits]({% link _posts/2025/01/2025-01-04-KillingOurKids.md %})
+- 2025-05-09: [Caution: The Surgeon General Could Be Hazardous To Your Health]({% link _posts/2025/05/2025-05-09-CautionSurgeonGeneralHazardousToHealth.md %})
+- 2025-02-19: [Donald Trump Shoots Self In Foot. So What Else Is New? Oh, Trump Fucks Up a Chicken Pandemic Response: Avian (Bird), H5N1]({% link _posts/2025/02/2025-02-19-TrumpShotsSelfInFootBirdFluFuckup.md %})
+- 2025-01-04: [Killing Our Kids Softly With His Song – Robert F Kennedy Jr (RFKJr)'s Newest Hit Single On The Top 40 MAGA Hits]({% link _posts/2025/01/2025-01-04-KillingOurKids.md %})
 
 ## [RFK Jr. has named himself the official arbiter of vaccine science](https://www.msnbc.com/opinion/msnbc-opinion/rfk-jr-hhs-vaccines-covid-bird-flu-moderna-rcna209745)
 
@@ -40,7 +40,7 @@ It is duplicitous at best to say more study is needed to reassure the public whe
 
 > *[Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html)’s blatant positioning of himself as the ultimate judge of how to keep [Americans](https://www.usa.gov/) healthy goes beyond the pale.*
 
-[Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html) went even further Tuesday with a [surprise announcement](https://x.com/seckennedy/status/1927368440811008138?s=46) that the [Centers for Disease Control and Prevention](https://www.cdc.gov/) would [no longer recommend including the Covid vaccine](https://www.nbcnews.com/health/health-news/covid-vaccine-kids-pregnant-women-cdc-recommendation-rfk-jr-rcna207312) in its immunization schedule for “healthy children and healthy pregnant women.” According to [The Washington Post](https://www.washingtonpost.com%), [the CDC itself was unaware](https://www.washingtonpost.com/health/2025/05/28/vaccines-cdc-rfk-jr-covid/) that this change would be coming before [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html) posted about it on [X](https://x.com/). Moreover, the video [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html) posted, the guidance given internally to [CDC](https://www.cdc.gov/) staffers and the [FDA](https://www.fda.gov/)’s commentary last week all contradict one another about exactly who still qualifies for a [Covid](https://www.cdc.gov/covid/index.html) booster.
+[Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html) went even further Tuesday with a [surprise announcement](https://x.com/seckennedy/status/1927368440811008138?s=46) that the [Centers for Disease Control and Prevention](https://www.cdc.gov/) would [no longer recommend including the Covid vaccine](https://www.nbcnews.com/health/health-news/covid-vaccine-kids-pregnant-women-cdc-recommendation-rfk-jr-rcna207312) in its immunization schedule for “healthy children and healthy pregnant women.” According to [The Washington Post](https://www.washingtonpost.com/), [the CDC itself was unaware](https://www.washingtonpost.com/health/2025/05/28/vaccines-cdc-rfk-jr-covid/) that this change would be coming before [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html) posted about it on [X](https://x.com/). Moreover, the video [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html) posted, the guidance given internally to [CDC](https://www.cdc.gov/) staffers and the [FDA](https://www.fda.gov/)’s commentary last week all contradict one another about exactly who still qualifies for a [Covid](https://www.cdc.gov/covid/index.html) booster.
 
 [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html)’s influence over what the scientists under him can say could strengthen even further in coming days. Earlier this week, he [threatened to stop government researchers](https://www.politico.com/news/2025/05/27/rfk-jr-nih-scientists-medical-journals-jama-lancet-nejm-00371349) at the [National Institutes of Health](https://www.nih.gov/) and other agencies from publishing their findings in major medical journals like the [NEMJ](https://www.nejm.org/) and [The Lancet](https://www.thelancet.com/). “Unless those journals change dramatically, we are going to stop [NIH](https://www.nih.gov/) scientists from publishing in them, and we’re going to create our own journals in-house,” [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html) warned in a podcast appearance.
 
@@ -81,5 +81,3 @@ Hayes Brown is a writer and editor for [MSNBC Daily](https://www.msnbc.com/), wh
 - politics
 - anti-vaxxer 
 - medical quackery 
-
-

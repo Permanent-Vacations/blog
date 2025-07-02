@@ -6,8 +6,6 @@ layout: base
 
 [^110]: I am one of the *“enemy within”*.
 
-- [Tracking Taxpayer Spending at Trump Properties - American Oversight](https://americanoversight.org/tracking-taxpayer-spending-at-trump-properties/)
-
 ## Briefly
 
 ### Synopsis
@@ -16,11 +14,78 @@ In 2015, I assessed [Trump](https://www.donaldjtrump.com/) as unqualified, and u
 
 There is no university postgraduate, graduate, or undergraduate degree program that offers a degree qualifying one with the skills to be president.
 
-Prior to that long shot of [Trump](https://www.donaldjtrump.com/) 1.0 winning the election, past presidents have been governors of states, or legislators at the national or state level. Even Vice presidents have had some experience with government. [Trump](https://www.donaldjtrump.com/) is the head of a family-owned business. He has never been CEO of a publicly traded large corporation with a board of directors. 
+Prior to that long shot of [Trump](https://www.donaldjtrump.com/) 1.0 winning the election, past presidents have been governors of states, or legislators at the national or state level. Even Vice presidents have had some experience with government. [Trump](https://www.donaldjtrump.com/) is the head of a family-owned business. He has never been CEO of a publicly traded large corporation with a board of directors.
 
-Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://www.donaldjtrump.com/) 2.0 is about [Trump](https://www.donaldjtrump.com/)’s destruction of America and her democracy. Putting it in his words, “You got to fight for your country, or you won’t have a country.” 
+Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://www.donaldjtrump.com/) 2.0 is about [Trump](https://www.donaldjtrump.com/)’s destruction of America and her democracy. Putting it in his words, “You got to fight for your country, or you won’t have a country.”
+
+### Resources 
+
+Find out who politicians owe their soul to:
+
+- [OpenSecrets](https://www.opensecrets.org/)
+- [Trump Golf Track](https://trumpgolftrack.com/)
+
+- [50501 — 50 protests, 50 states, 1 movement](https://www.fiftyfifty.one/)
+- [Activist Handbook / Campaigning guides for activists ✊](https://activisthandbook.org/)
+- [American Civil Liberties Union / The ACLU dares to create a more perfect union — beyond one person, party, or side. Our mission is to realize this promise of the United States Constitution for all and expand the reach of its guarantees.](https://www.aclu.org/)
+- [Indivisible](https://indivisible.org/)
+- [League of Conservation Voters](https://www.lcv.org/)
+- [No Kings](https://www.nokings.org/)
+- [People's Promise](https://peoplespromise.us/)
+- [Stand Up America - Demanding the Democracy We Deserve](https://standupamerica.com/)
+- [Volunteer Opportunities, Events, and Petitions Near Me · Not Above the Law on Mobilize](https://www.mobilize.us/notabovethelaw/)
 
 ### Call to Action
+
+<div id="2025-07-19T23:59:59">
+
+<h4><a href="https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/">Declaring A National Emergency At The Southern Border Of The United States – The White House</a>. Presidential Actions. January 20, 2025</h4>
+
+<h5>July 19, 2025 – Day of Reckoning</h5>
+
+<a href="https://www.donaldjtrump.com/">Trump</a> is considering invoking the Insurrection Act of 1807 to extend his time as king. But the projected status of America will not warrant invoking the act.
+
+Besides, he pardoned all those insurrectionists from January 6, 2021 that stormed the Capitol to halt the certification of the <a href="https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf">2020 Presidential Election Results – Federal Election Commission (FEC)</a>.
+
+<a href="https://wagingnonviolence.org/2025/04/what-to-do-if-the-insurrection-act-is-invoked/">
+What to do if the Insurrection Act is invoked / Waging Nonviolence</a>
+
+<ul>
+<li><a href="https://indivisible.org/resource/could-trump-invoke-insurrection-act-what-know-and-how-prepare">Could Trump Invoke the Insurrection Act? What to Know—and How to Prepare / Indivisible</a></li>
+<li><a href="https://wagingnonviolence.org/2025/06/american-spring-nonviolent-protest-accelerating/">American Spring? How nonviolent protest in the US is accelerating / Waging Nonviolence</a><br />Contrary to conventional wisdom, the size and scale of anti-Trump protests this year have dwarfed those in 2017, and they have been extraordinarily peaceful.<br />Erica Chenoweth, Soha Hammam, Jeremy Pressman, and Christopher Wiley Shay June 12, 2025</li>
+</ul>
+
+
+</div>
+
+<div id="2025-06-14T23:59:59">
+
+<h4><a href="https://www.thestate.com/news/state/south-carolina/article308317355.html">‘No Kings’ anti-Trump protests coming to South Carolina soon / The State</a></h4>
+
+<h5>Saturday, June 14, 2025</h5>
+
+<ol>
+
+<li>No Kings Day At The Dome (Columbia): 1100 Gervais St. from 12:30 - 4 p.m. </li>
+<li>Rock Hill: 111 E. White St. from 2 - 4 p.m. </li>
+<li>Spartanburg: 105 N Church St. from 4 - 6 p.m. </li>
+<li>Greenville: 355 S. Hudson St. from 10 - 11:30 a.m. </li>
+<li>Pendleton: 124 Exchange St. from 3 - 5 p.m. </li>
+<li>Seneca: 221 E. North 1st St. from 11:30 a.m. - 1:30 p.m. </li>
+<li>Aiken: 1700 Whiskey Rd. From 12 - 2 p.m. </li>
+<li>Beaufort: 1911 Boundary St. from 12 - 1 p.m. </li>
+<li>Hilton Head: 430 William Hilton Pkwy from 12 - 2 p.m. </li>
+<li>Bluffton: 4819 Bluffton from 4 - 6 p.m. </li>
+<li>Summerville: 500 N. Main St. from 9:30 - 11:30 a.m. </li>
+<li>Charleston: 30 Mary Murray Dr. from 9 - 11 a.m. </li>
+<li>Myrtle Beach: 937 Broadway St. from 2 - 3 p.m. </li>
+<li>Florence: 2099 W Evans St. from 11 a.m. - 1 p.m.</li>
+
+</ol>
+
+@RalphHightower: The <a href="https://naacp.org/">NAACP</a> has "King Day At the Dome" at the State Capitol on Martin Luther King's Day. The rally this Saturday is "<a href="https://www.nokings.org/">No Kings Day</a>".
+
+</div>
 
 Hold [Trump](https://www.donaldjtrump.com/)’s feet to the fire on his campaign promises. He promised to lower grocery prices, gas prices, car/truck prices, inflation, housing prices. Grade him on appliances prices, budget deficit, car and truck prices, consumer goods, economy, energy, groceries, housing prices, inflation, interest rate, stock market, trade deficit, unemployment.
 
@@ -151,7 +216,7 @@ During [Trump](https://www.donaldjtrump.com/)'s presidential campaigns in 2015 (
 
 ## Donald Trump – The Reasons Against Him
 
-### New York Civil Court Guilty Verdicts 
+### New York Civil Court Guilty Verdicts
 
 [Trump](https://www.donaldjtrump.com/) was convicted of 34 counts of business falsification for hush money to keep [Stormy Daniels](https://stormydaniels.com/) extramarital affair private. [Trump](https://www.donaldjtrump.com/)’s ‘Fix-It’ lawyer, Michael Cohen served time in prison as the go-between between [Daniels](https://stormydaniels.com/) and the National Enquirer.
 
@@ -203,7 +268,7 @@ There are two court cases that have not yet convened and must be decided because
 
 **Damn!** How the hell did [Trump](https://www.donaldjtrump.com/) win?! Although the federal case will be winding down since the [DOJ](https://www.justice.gov/) has some regulation that sitting presidents cannot be tried.
 
-#### [Donald Trump](https://www.donaldjtrump.com/) Is Guilty For Attempting To Overturn An Election And Instigating The January 6, 2021 Insurrection 
+#### [Donald Trump](https://www.donaldjtrump.com/) Is Guilty For Attempting To Overturn An Election And Instigating The January 6, 2021 Insurrection
 
 [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
 
@@ -213,7 +278,7 @@ I thought that it was a publicity when [Trump](https://www.donaldjtrump.com/) an
 
 "[The Apprentice: White House](https://www.whitehouse.gov/)" ended a tumultuous four year season ingloriously in January 2020, in an extraordinary low point in American history when thousands of far-right undesirables, Pride Boys, Zero Percenters and Oath Losers, lay siege on the US Capitol in a vain attempt of insurrection to overthrow a fair election.
 
-## Supreme Court Justice Clarence Thomas 
+## Supreme Court Justice Clarence Thomas
 
 I also think that [Supreme Court Justice Clarence Thomas should be impeached](https://ralphhightower.github.io/RalphHightower/Opinions/ImpeachSCOTUSJusticeClarenceThomas.html) because he is ethically financial challenged.
 
@@ -277,6 +342,48 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 [^32]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet.
 [^31]: @RalphHightower: The Columbia metro area probably encompasses a larger area than those two counties, but Lexington and Richland are as far as we are willing to drive. Plus, crossing the Broad River to the Northeast area of Columbia is a farther distance. I've included Sandhills Shopping Center since we would eat there after meeting with our financial advisor when he was located out that way.
 
+<script>
+
+displayUntil("2025-06-14T23:59:59");
+
+function displayUntil(dateUntil) {
+    const now = new Date();
+    const until = new Date(dateUntil);
+    span = timeSpan(now, until);
+    if (span > 0)
+        showElement(dateUntil);
+    else
+        hideElement(dateUntil);
+    }
+
+function timeSpan(from, to) {
+    // Calculate difference in milliseconds
+    return Math.floor(to - from);
+    }
+
+function showElement(name) { // 1
+    const element = document.getElementById(name);
+    if (element != null) { // 2
+        document.getElementById(name).style.display = 'block';
+        } // 2
+    } // 1
+
+function hideElement(name) {
+    var element = document.getElementById(name);
+    if (element != null) {
+        element.style.display = 'none';
+        }
+    }
+
+function setElementText(element, text) {
+    var element = document.getElementById(name);
+    if (element != null) {
+        document.getElementById(element).textContent =  text;
+        }
+    }
+
+</script>
+
 ### [USC Gamecocks](https://www.sc.edu/)
 
 | [USC — University of South Carolina](https://www.sc.edu) |
@@ -303,5 +410,4 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 |  |  |
 |---|---|
 | ![GitHub Repositories By Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![GitHub Most Committed By Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) |
-
 | ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![GitHub Commits By Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |

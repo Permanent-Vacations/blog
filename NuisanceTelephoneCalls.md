@@ -1,8 +1,8 @@
 ---
 layout: page
-tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
+tags: [Karoline, Leavitt, Mike Pence, Rex Tillerson (2017–2018) Mike Pompeo (2018–2021), Steven Mnuchin (2017–2021), Jim Mattis (2017–2019) Mark Esper (2019–2020) Christopher C. Miller (acting 2020–2021), Jeff Sessions (2017–2018) William Barr (2019–2020) Jeffrey A. Rosen (acting 2020–2021), Ryan Zinke (2017–2019) David Bernhardt (2019–2021), Sonny Perdue (2017–2021), Wilbur Ross (2017–2021), Alexander Acosta (2017–2019) Eugene Scalia (2019–2021), Tom Price (2017) Alex Azar (2018–2021), Ben Carson (2017–2021), Elaine Chao (2017–2021), Rick Perry (2017–2019) Dan Brouillette (2019–2021), Betsy DeVos (2017–2021), David Shulkin (2017–2018) Robert Wilkie (2018–2021), John F. Kelly (2017) Kirstjen Nielsen (2017–2019) Kevin McAleenan (acting 2019) Chad Wolf (acting 2019–2021), Sean Spicer (2017), Sarah Huckabee Sanders (2017–2019), Stephanie Grisham (2019–2020), Kayleigh McEnany (2020–2021), Steven Mnuchin (2017–2021), Lee Zeldin (2025-), Kelly Loeffler (2025-), Pam Bondi (2025-), John Ratcliffe (2025-), Tulsi Gabbard (2025-), Russ Vought (2025-), Brooke Rollins (2025-), Howard Lutnick (2025-), Pete Hegseth (2025-), Linda McMahon (2025-), Chris Wright (2025-), Robert F Kennedy Jr. (2025-), Kristi Noem (2025-), Scott Turner (2025-), Doug Burgum (2025-), Lori Chavez-DeRemer (2025-), Marco Rubio (2025-), Doug Collins (2025-), Sean Duffy (2025-), Scott Bessent (2025-), Jamieson Greer (2025-)]
 categories: [Telephone Numbers]
-date: 2025-06-10 8:40 PM
+date: 2025-07-01 8:15 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,74 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18039417146">+1 (803) 941-7146</a> | SC. Little Mountain | 2025-07-01 06:20 PM | — | |
+| <a href="tel:+18038798707">+1 (803) 879-8707</a> | SC. Clover | 2025-07-01 12:29 PM | — | |
+| <a href="tel:+18034823712">+1 (803) 482-3712</a> | SC. Great Falls | 2025-07-01 10:19 AM | Dessie Dean | |
+| <a href="tel:+18037058108">+1 (803) 705-8108</a> | SC. | 2025-06-30 05:41 PM | — | |
+| <a href="tel:+18037089728">+1 (803) 708-9728</a> | SC. Columbia | 2025-06-30 05:03 PM | Steven Hewitt | |
+| <a href="tel:+18038664937">+1 (803) 866-4937</a> | SC. Olar | 2025-06-30 03:28 PM | — | |
+| <a href="tel:+18037261627">+1 (803) 726-1627</a> | SC. | 2025-06-30 01:03 PM | — | |
+| <a href="tel:+18037681803">+1 (803) 768-1803</a> | SC. | 2025-06-30 09:45 AM | — | |
+| <a href="tel:+18039418344">+1 (803) 941-8344</a> | SC. Little Mountain | 2025-06-28 11:37 AM | — | |
+| <a href="tel:+18032346438">+1 (803) 234-6438</a> | SC. Columbia | 2025-06-27 06:44 PM | — | |
+| <a href="tel:+18032051199">+1 (803) 205-1199</a> | SC. | 2025-06-27 04:25 PM | Joyner, Lacoshia | |
+| <a href="tel:+18039927670">+1 (803) 992-7670</a> | SC. | 2025-06-27 10:39 AM | — | |
+| <a href="tel:+18702182297">+1 (870) 218-2297</a> | AR. Pine Bluff | 2025-06-26 07:17 PM | — | |
+| <a href="tel:+18036173163">+1 (803) 617-3163</a> | SC. Aiken | 2025-06-26 03:13 PM | Public Service | |
+| <a href="tel:+18036158186">+1 (803) 615-8186</a> | SC. Edgefield | 2025-06-26 02:58 PM | — | |
+| <a href="tel:+18032447051">+1 (803) 244-7051</a> | SC. Bamberg | 2025-06-26 01:40 PM | — | |
+| <a href="tel:+18039940497">+1 (803) 994-0497</a> | SC. Whitmire | 2025-06-26 09:47 AM | — | |
+| <a href="tel:+18036217108">+1 (803) 621-7108</a> | SC. Barnwell | 2025-06-25 12:37 PM | — | |
+| <a href="tel:+18039690784">+1 (803) 969-0784</a> | SC. | 2025-06-25 11:32 AM | — | |
+| <a href="tel:+18033990174">+1 (803) 399-0174</a> | SC. | 2025-06-25 09:13 AM | Edward Jones | |
+| <a href="tel:+18032194046">+1 (803) 219-4046</a> | SC. Blackville | 2025-06-24 02:52 PM | — | |
+| <a href="tel:+12545055440">+1 (254) 505-5440</a> | TX. Ranger | 2025-06-24 01:43 PM ¤¤ | — | |
+| <a href="tel:+18038516629">+1 (803) 851-6629</a> | SC. | 2025-06-24 01:08 PM | — | |
+| <a href="tel:+18038624000">+1 (803) 862-4000</a> | SC. Columbia | 2025-06-24 12:01 PM | QuickTrip | |
+| <a href="tel:+18039777189">+1 (803) 977-7189</a> | SC. Columbia | 2025-06-23 05:54 PM | — | |
+| <a href="tel:+18037684753">+1 (803) 768-4753</a> | SC. Newberry | 2025-06-23 05:51 PM | — | |
+| <a href="tel:+18032345124">+1 (803) 234-5124</a> | SC. Columbia | 2025-06-23 04:05 PM | Signet | |
+| <a href="tel:+18032160890">+1 (803) 216-0890</a> | SC. Columbia | 2025-06-23 02:53 PM | — | |
+| <a href="tel:+18033943716">+1 (803) 394-3716</a> | SC. | 2025-06-23 12:55 PM ¤¤ | Laura Jones | |
+| <a href="tel:+18033943716">+1 (803) 394-3716</a> | SC. | 2025-06-23 12:54 PM | Laura Jones | |
+| <a href="tel:+18036948524">+1 (803) 694-8524</a> | SC. Whitmire | 2025-06-23 09:59 AM | — | |
+| <a href="tel:+18037381506">+1 (803) 738-1506</a> | SC. Columbia | 2025-06-20 03:27 PM | — | |
+| <a href="tel:+18034004681">+1 (803) 400-4681</a> | SC. Columbia | 2025-06-20 02:15 PM | — | |
+| <a href="tel:+18039483731">+1 (803) 948-3731</a> | SC. Little Mountain | 2025-06-20 11:59 AM | — | |
+| <a href="tel:+18036314244">+1 (803) 631-4244</a> | SC. Fort Mill | 2025-06-20 10:25 AM | — | |
+| <a href="tel:+18035291263">+1 (803) 529-1263</a> | SC. Columbia | 2025-06-19 03:12 PM | Cust Svc | |
+| <a href="tel:+18037148776">+1 (803) 714-8776</a> | SC. Columbia | 2025-06-19 01:59 PM | — | |
+| <a href="tel:+18033549157">+1 (803) 354-9157</a> | SC. Columbia | 2025-06-19 01:27 PM | — | |
+| <a href="tel:+18038798707">+1 (803) 879-8707</a> | SC. Clover | 2025-06-19 12:53 PM | AAAS | |
+| <a href="tel:+18032581608">+1 (803) 258-1608</a> | SC. Springfield | 2025-06-18 06:25 PM ¤¤ | — | |
+| <a href="tel:+18032581608">+1 (803) 258-1608</a> | SC. Springfield | 2025-06-18 06:24 PM | — | |
+| <a href="tel:+18038390213">+1 (803) 839-0213</a> | SC. Newberry | 2025-06-18 12:33 PM | — | |
+| <a href="tel:+18034437587">+1 (803) 443-7587</a> | SC. New Ellington | 2025-06-18 11:43 AM | — | |
+| <a href="tel:+18036470182">+1 (803) 647-0182</a> | SC. Columbia | 2025-06-17 06:24 PM | — | |
+| <a href="tel:+18035949179">+1 (803) 594-9179</a> | SC. | 2025-06-17 10:51 AM | — | |
+| <a href="tel:+18035509167">+1 (803) 550-9167</a> | SC. | 2025-06-17 10:37 AM | Johnson Shawn | |
+| <a href="tel:+18035834483">+1 (803) 583-4483</a> | SC. Pelion | 2025-06-17 09:57 AM | — | |
+| <a href="tel:+18039972717">+1 (803) 997-2717</a> | SC. Orangeburg | 2025-06-17 09:46 AM | — | |
+| <a href="tel:+18038090350">+1 (803) 809-0350</a> | SC. Orangeburg | 2025-06-16 06:51 PM | [Regional Medical Center](https://muschealth.org/orangeburg) | |
+| <a href="tel:+18036202025">+1 (803) 620-2025</a> | SC. York | 2025-06-16 04:18 PM | [York Electric](https://www.yorkelectric.net/) | |
+| <a href="tel:+18035399893">+1 (803) 539-9893</a> | SC. | 2025-06-16 03:00 PM | — | |
+| <a href="tel:+18543486858">+1 (854) 348-6858</a> | SC. Cross | 2025-06-14 12:13 PM | — | |
+| <a href="tel:+18033126404">+1 (803) 312-6404</a> | SC. Columbia | 2025-06-14 11:40 AM | — | |
+| <a href="tel:+18036750402">+1 (803) 675-0402</a> | SC. Clover | 2025-06-13 04:36 PM | — | |
+| <a href="tel:+18038217226">+1 (803) 821-7226</a> | SC. West Columbia | 2025-06-13 03:40 PM | [FedEx Ground](https://www.fedex.com/) | |
+| <a href="tel:+18034024379">+1 (803) 402-4379</a> | SC. Winnsboro | 2025-06-13 02:54 PM | — | |
+| <a href="tel:+18032663857">+1 (803) 266-3857</a> | SC. Williston | 2025-06-13 01:50 PM | — | |
+| <a href="tel:+18037477735">+1 (803) 747-7735</a> | SC. Orangeburg | 2025-06-13 11:44 AM | — | |
+| <a href="tel:+18038061202">+1 (803) 806-1202</a> | SC. | 2025-06-13 10:18 AM | — | |
+| <a href="tel:+18036011417">+1 (803) 601-1417</a> | SC. | 2025-06-12 05:47 PM | — | |
+| <a href="tel:+18037088104">+1 (803) 708-8104</a> | SC. | 2025-06-12 04:11 PM | Ronald Rollins | |
+| <a href="tel:+18032274011">+1 (803) 227-4011</a> | SC. Columbia | 2025-06-12 12:44 PM | [Focus Eye Care](https://focus-eyecare.com/) | |
+| <a href="tel:+18033801663">+1 (803) 380-1663</a> | SC. Beech Island | 2025-06-12 11:08 AM | — | |
+| <a href="tel:+18038818698">+1 (803) 881-8698</a> | SC. Columbia | 2025-06-11 07:04 PM ¤¤ | — | |
+| <a href="tel:+18034540855">+1 (803) 454-0855</a> | SC. Columbia | 2025-06-11 05:04 PM | Agape Management | |
+| <a href="tel:+18032051956">+1 (803) 205-1956</a> | SC. Columbia | 2025-06-11 04:43 PM | [RDI Benton Crossing](https://bentoncrossing.wodagroup.com/) | |
+| <a href="tel:+18036947718">+1 (803) 694-7718</a> | SC. Whitmire | 2025-06-11 02:43 PM | — | |
+| <a href="tel:+18033147263">+1 (803) 314-7263</a> | SC. Columbia | 2025-06-11 12:02 PM | — | |
 | <a href="tel:+18034577293">+1 (803) 457-7293</a> | SC. Columbia | 2025-06-10 03:55 PM | — | |
 | <a href="tel:+18034960022">+1 (803) 496-0022</a> | SC. Holly Hill | 2025-06-09 10:56 AM | Pool Works LLC | |
 | <a href="tel:+18035881766">+1 (803) 588-1766</a> | SC. Bishopville | 2025-06-09 09:53 AM | — | |
@@ -33,7 +101,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18036812920">+1 (803) 681-2920</a> | SC. | 2025-06-03 04:45 PM | — | |
 | <a href="tel:+18033668682">+1 (803) 366-8682</a> | SC. Rock Hill | 2025-06-03 10:36 AM | William Moffat | |
 | <a href="tel:+18037640389">+1 (803) 764-0389</a> | SC. Columbia | 2025-06-03 10:04 AM | Tamarind Clubhouse | |
-| <a href="tel:+18035291346">+1 (803) 529-1346</a> | SC. Columbia | 2025-06-03 10:02 AM Cust | — | |
+| <a href="tel:+18035291346">+1 (803) 529-1346</a> | SC. Columbia | 2025-06-03 10:02 AM | Cust Svc | |
 | <a href="tel:+18034761593">+1 (803) 476-1593</a> | SC. Columbia | 2025-06-02 03:48 PM | — | |
 | <a href="tel:+18033870690">+1 (803) 387-0690</a> | SC. | 2025-06-02 01:25 PM | Dollar Tree/Family | |
 | <a href="tel:+18037482802">+1 (803) 748-2802</a> | SC. Columbia | 2025-06-02 12:55 PM | — | |
